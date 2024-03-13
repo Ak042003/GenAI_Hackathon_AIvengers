@@ -1,1 +1,1 @@
-# GenAI-Hackathon---AIvengers
+# GenAI_Hackathon_AIvengers
